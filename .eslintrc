@@ -8,6 +8,6 @@
     "compat/compat": "error"
   },
   "settings": {
-    "polyfills": ["fetch"]
+    "polyfills": ["es:all"]
   }
 }
